@@ -20,6 +20,7 @@ main{
     margin: auto 15%;
     height: 60%;
  background-color: whitesmoke;
+ overflow: hidden;
    
 }
 .product-img{
@@ -71,6 +72,7 @@ button{
     border-radius: 1em;
     background-color: cadetblue;
     transition: 0.5s;
+    border-color: cadetblue;
 }
 button:hover{
     scale: 110%;
