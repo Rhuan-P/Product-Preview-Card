@@ -17,7 +17,7 @@ main{
     display: flex ;
     
     border-radius: 15px;
-    margin: auto 15%;
+    margin: auto ;
     height: 60%;
  background-color: whitesmoke;
  overflow: hidden;
