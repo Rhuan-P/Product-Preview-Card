@@ -75,6 +75,7 @@ button{
     background-color: cadetblue;
     transition: 0.5s;
     border-color: cadetblue;
+    color: white;
 }
 button:hover{
     scale: 110%;  
